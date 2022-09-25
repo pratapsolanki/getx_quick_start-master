@@ -1,6 +1,6 @@
 # getx_quick_start
 
-## reference
+## Reference
 
 - getx pub
   https://github.com/jonataslaw/getx
@@ -13,15 +13,15 @@
 
 ## Fully enable getx4 + null-safety null safety
 
-## foreword
+## Foreword
 
 This repository is only for sorting and researching the getx function. The actual project code structure is not implemented here (may use getx to rewrite a version of last year's news client APP).
-## research focus
+## Research focus
 
 1. function coverage
 2. Three-terminal performance: android ios, web, desktop
 
-## official warehouse
+## Official warehouse
 
 https://pub.flutter-io.cn/packages/get
 
@@ -36,7 +36,10 @@ https://pub.flutter-io.cn/packages/get
 - Dart 2.13.0
 - get: ^4.1.3
 
-## reference
+## Reference
 
 - [Sound null safety](https://dart.dev/null-safety)
 - [getx_pattern](https://kauemurakami.github.io/getx_pattern/)
+
+## Follow on twitter
+- [@Pratap40710411](https://twitter.com/Pratap40710411?t=uVxGiWg1yDPnvwUzs2WkKA&s=08)
