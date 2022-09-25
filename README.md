@@ -30,7 +30,7 @@ https://pub.flutter-io.cn/packages/get
 
 
 
-## development environment
+## Development environment
 
 - Flutter 2.1.0-12.1.pre
 - Dart 2.13.0
