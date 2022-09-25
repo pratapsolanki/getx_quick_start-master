@@ -25,7 +25,8 @@ This repository is only for sorting and researching the getx function. The actua
 
 https://pub.flutter-io.cn/packages/get
 
-![](./README/2021-03-24-17-37-06.png)
+![](./README/1.png)
+![](./README/2.png)
 
 
 
